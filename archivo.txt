@@ -1,0 +1,8 @@
+Hola mundo
+Primer práctica Git
+Aplicaciones Web
+Grupo: C
+Grado: 3ro
+Carrera: Tecnologías de la información
+Área: Desarrollo de software multiplataforma
+Turno: Matutino
