@@ -1,9 +1,0 @@
-Primer práctica Git con GitHub
-Materia: Aplicaciones Web
-Grupo: 3C - Vespertino
-Carrera: Tecnologías de la información
-Área: Desarrollo de software multiplataforma
-Turno: Matutino
-Docente: José Christian Narváez Figueroa
-Objetivo materia: Desarrollar Aplicaciones que puedan ser desplegadas en internet
-Competencias: Algun texto para rellenar y que se visualice el cambio
