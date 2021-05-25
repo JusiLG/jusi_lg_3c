@@ -1,7 +1,6 @@
 Primer práctica Git con GitHub
 Materia: Aplicaciones Web
-Grupo: C
-Grade: 3
+Grupo: 3C - Vespertino
 Carrera: Tecnologías de la información
 Área: Desarrollo de software multiplataforma
 Turno: Matutino
