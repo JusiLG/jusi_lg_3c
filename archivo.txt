@@ -1,10 +1,10 @@
 Primer práctica Git
 Materia: Aplicaciones Web
 Grupo: C
-Grado: 3ro
+Grade: 3
 Carrera: Tecnologías de la información
 Área: Desarrollo de software multiplataforma
 Turno: Matutino
 Docente: José Christian Narváez Figueroa
 Objetivo materia: Desarrollar Aplicaciones que puedan ser desplegadas en internet
-Competencias: Algun texto para rellenar
+Competencias: Algun texto para rellenar y que se visualice el cambio
